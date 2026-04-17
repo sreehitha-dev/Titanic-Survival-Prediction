@@ -6,7 +6,7 @@ This project performs end-to-end data analysis and machine learning on the Titan
 
 It covers:
 
-Data loading
+- Data loading
 Data cleaning
 Exploratory Data Analysis (EDA)
 Feature engineering
@@ -15,7 +15,7 @@ Machine learning model building
 # 📂 Dataset
 Dataset: Titanic dataset (loaded using Seaborn)
 Total records: 891 rows × 15 columns
-# Features include:
+Features include:
 Passenger details: age, sex, pclass
 Family info: sibsp, parch
 Ticket info: fare, embarked
