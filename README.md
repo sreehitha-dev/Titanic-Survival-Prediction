@@ -64,5 +64,5 @@ This helps understand the impact of family size on survival.
 - Seaborn, Matplotlib
 - Scikit-learn
 # 📁 Project Files
-- Titanic_DS_project.ipynb → Main notebook
-- titanic.csv → Exported dataset
+- Titanic.ipynb → Main notebook
+- Titanic_Dataset.csv → Exported dataset
