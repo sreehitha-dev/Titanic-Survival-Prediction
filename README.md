@@ -66,7 +66,3 @@ Steps:
 # 📁 Project Files
 - Titanic_DS_project.ipynb → Main notebook
 - titanic.csv → Exported dataset
-🚀 How to Run
-Open the notebook in Google Colab / Jupyter Notebook
-Run all cells step by step
-View analysis, visualizations, and model results
