@@ -56,7 +56,7 @@ This helps understand the impact of family size on survival.
 - Model training using sklearn
 - Predictions on test data
 # 📈 Results
-- Model accuracy:0.8048780487804879
+- Model accuracy:0.8292682926829268
 - Confusion matrix visualized using heatmap
 # 🛠️ Tech Stack
 - Python
