@@ -1,2 +1,2 @@
-# Titanic-Survival-Prediction
-Titanic Survival Prediction using Machine Learning (Logistic Regression) with data preprocessing and visualization.
+Titanic_ds_project
+Applied DS concepts on Titanic dataset and extracted insights and predicted survival rate based on the dataset.
