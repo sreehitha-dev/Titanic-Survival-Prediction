@@ -15,7 +15,7 @@ It covers:
 # 📂 Dataset
 - Dataset: Titanic dataset (loaded using Seaborn)
 - Total records: 891 rows × 15 columns
-Features include:
+**Features include:**
 - Passenger details: age, sex, pclass
 - Family info: sibsp, parch
 - Ticket info: fare, embarked
@@ -37,21 +37,21 @@ Created a new feature:
 This helps understand the impact of family size on survival.
 
 # 📊 Exploratory Data Analysis (EDA)
-Key Insights:
+**Key Insights:**
 - ✅ Females had significantly higher survival rate than males
 - ✅ Higher class passengers (1st class) survived more
 - ✅ Higher fare is associated with higher survival
 - ✅ Smaller families had better survival chances
-Visualizations Used:
+**Visualizations Used:**
 - Bar plots (survival rate, gender)
 - Histograms (age distribution)
 - Box plots (fare vs class)
 - Pie chart (survival percentage)
 - Scatter plot (age vs fare)
 # 🤖 Machine Learning Model
-Model Used:
+**Model Used:**
 - Logistic Regression
-Steps:
+**Steps:**
 - Train-test split (80% training, 20% testing)
 - Model training using sklearn
 - Predictions on test data
