@@ -23,13 +23,12 @@ It covers:
 # 🧹 Data Cleaning
 - Filled missing values in age using mean
 
-- Dropped remaining missing values (deck, embarked, etc.)
+- Dropped remaining missing values (cabin, embarked, etc.)
 
 - Converted categorical data into numeric:
 
 sex: male → 0, female → 1  
-embarked: S → 0, C → 1, Q → 2  
-alone: True → 1, False → 0  
+embarked: S → 0, C → 1, Q → 2   
 # ⚙️ Feature Engineering
 Created a new feature:
 
