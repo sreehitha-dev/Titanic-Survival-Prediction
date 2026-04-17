@@ -33,7 +33,7 @@ alone: True → 1, False → 0
 # ⚙️ Feature Engineering
 Created a new feature:
 
-- fam_size = sibsp + parch
+- fam_size = sibsp + parch  
 This helps understand the impact of family size on survival.
 
 # 📊 Exploratory Data Analysis (EDA)
