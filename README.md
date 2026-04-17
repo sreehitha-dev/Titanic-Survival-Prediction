@@ -27,9 +27,9 @@ It covers:
 
 - Converted categorical data into numeric:
 
-sex: male → 0, female → 1
-embarked: S → 0, C → 1, Q → 2
-alone: True → 1, False → 0
+sex: male → 0, female → 1  
+embarked: S → 0, C → 1, Q → 2  
+alone: True → 1, False → 0  
 # ⚙️ Feature Engineering
 Created a new feature:
 
